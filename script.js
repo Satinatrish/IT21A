@@ -8,7 +8,7 @@ class Person {
 
    }
 }
-const person = new Person ("March", 24, "Instructor", "Programming");
+const person = new Person ("Trisha Ann", 19, "Student", "Programming");
 
       console.log("Name: " + person.name);
       console.log("Age: " + person.age);
