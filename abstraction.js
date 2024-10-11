@@ -20,3 +20,8 @@ class Employee {
     }
 }
 
+var emp = new Employee();
+emp.setName("Marchilyn");
+emp.setBaseSalary(100);
+console.log(emp.getName());
+console.log(emp.getSalary());
